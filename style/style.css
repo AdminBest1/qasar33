@@ -134,7 +134,7 @@ h2 {
 /* functional */
 .functional {
   height: 2182px;
-  background-image: url(/img/functional/functional-bg.jpg);
+  background-image: url(../img/functional/functional-bg.jpg);
   background-position-x: 50%;
   background-size: cover;
 }
@@ -302,7 +302,7 @@ h2 {
 /* mail */
 .mail {
   height: 914px;
-  background-image: url(/img/mail/bg-mail.png);
+  background-image: url(../img/mail/bg-mail.png);
   background-size: cover;
 }
 .mail-wraper {
